@@ -17,4 +17,5 @@ In this repristory I'll be leveraging my knowledge in SparkSQL to extract essent
 <img width="363" alt="Screenshot 2023-11-25 at 7 19 42 PM" src="https://github.com/sorapmas/home-sales/assets/128443029/b37b5e54-d998-4e82-964a-bc16f46aade5">
 
 
-
+# Acknowledgments:
+I've recieved assistance from an ASKBCS Learning Assistant
